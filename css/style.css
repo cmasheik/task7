@@ -1,0 +1,30 @@
+@font-face{
+	font-family:sheik;
+	src: url("../fonts/ali.ttf");
+}
+
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+
+p{
+	font-family:sheik;
+	color:red;
+	display:inline block;
+	font-weight:700;
+	font-size:50px;
+	text-align:center;
+	margin:200px;
+}
+
+.sheik{
+	background-image: url("../image/sheik.jpg");
+	background-size:cover;
+	height:100vh;
+	
+}
+.sk{
+	margin-bottom:20px;
+}
